@@ -4,14 +4,15 @@
              x:Class="MVVM.ModelViewVM.Views.CommandsView"
              Title="CommandsView">
     <VerticalStackLayout>
-        <button Text="Click Me"
+        <Button Text="Click Me"
                 Command="{Binding ClickCommand}"/>
 
         <SearchBar 
-            Text="{Binding SearchData}"
+            x:Name="searchBar"
+            
             Placeholder="Type to search..."
                    SearchCommand="{Binding SearchCommand}"
-                   SearchCommandParameter="{Binding Text, Source={x:Reference searchBar}}"
-                   x:Name="searchBar"/>
+                   SearchCommandParameter="{Binding Source={x:Reference searchBar,
+                   Path=Text}}"/>
     </VerticalStackLayout>
 </ContentPage>

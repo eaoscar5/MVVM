@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVVM
-build_property.ProjectDir = C:\Users\Shiny\source\repos\MVVM\
+build_property.ProjectDir = C:\Users\Shiny\Documents\Desarrollo de Apps Moviles\MVVM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,49 +22,49 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Shiny/source/repos/MVVM/App.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/AppShell.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/MainPage.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/ModelViewVM/Views/CommandsView.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/ModelViewVM/Views/CommandsView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.ModelViewVM.Views.CommandsView.xaml
 build_metadata.AdditionalFiles.TargetPath = ModelViewVM\Views\CommandsView.xaml
 build_metadata.AdditionalFiles.RelativePath = ModelViewVM\Views\CommandsView.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/ModelViewVM/Views/Gente.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/ModelViewVM/Views/Gente.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.ModelViewVM.Views.Gente.xaml
 build_metadata.AdditionalFiles.TargetPath = ModelViewVM\Views\Gente.xaml
 build_metadata.AdditionalFiles.RelativePath = ModelViewVM\Views\Gente.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/ModelViewVM/Views/PersonView.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/ModelViewVM/Views/PersonView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.ModelViewVM.Views.PersonView.xaml
 build_metadata.AdditionalFiles.TargetPath = ModelViewVM\Views\PersonView.xaml
 build_metadata.AdditionalFiles.RelativePath = ModelViewVM\Views\PersonView.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/Resources/Styles/Colors.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Shiny/source/repos/MVVM/Resources/Styles/Styles.xaml]
+[C:/Users/Shiny/Documents/Desarrollo de Apps Moviles/MVVM/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MVVM.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

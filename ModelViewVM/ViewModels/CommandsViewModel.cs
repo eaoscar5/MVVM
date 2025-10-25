@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
+
+
+
 namespace MVVM.ModelViewVM.ViewModels
 {
     public class CommandsViewModel
@@ -21,9 +24,9 @@ namespace MVVM.ModelViewVM.ViewModels
                 App.Current.MainPage.DisplayAlert("Titulo", "Mensaje!", "OK");
             });
 
-            SearchCommand = new Command(() =>
+            SearchCommand = new Command((s) =>
             {
-                var data = SearchData;
+                var data = s;
 
             });
 
