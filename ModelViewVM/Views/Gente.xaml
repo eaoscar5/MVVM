@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CollectionView SelectionMode="Multiple"
+                ItemsSource="{Binding Gente}">
+    <CollectionView.ItemTemplate>
+        <DataTemplate>
+            <StackLayout>
+                <Frame Margin="20"
+                       BorderColor="red"
+                       CornerRadius="5"
+                       HasShadow="True"
+                       HeightRequest="100"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center">
+
+                    <Label Text="{Binding .}"/>
+
+                </Frame>
+            </StackLayout>
+        </DataTemplate>
+    </CollectionView.ItemTemplate>
+</CollectionView>

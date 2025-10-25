@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shiny\\source\\repos\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\viewmodels\\commandsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\viewmodels\\commandsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\views\\commandsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\views\\commandsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\views\\commandsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\views\\commandsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\views\\personview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\viewmodels\\genteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\viewmodels\\genteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\modelviewvm\\views\\gente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:modelviewvm\\views\\gente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|c:\\users\\shiny\\source\\repos\\mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BC76C-E8A5-4B10-8B7A-F5721CBA96CC}|MVVM.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 202,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:00:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-25T06:00:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\CommandsView.xaml.cs",
+              "RelativeDocumentMoniker": "ModelViewVM\\Views\\CommandsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\CommandsView.xaml.cs",
+              "RelativeToolTip": "ModelViewVM\\Views\\CommandsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:53:13.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\CommandsViewModel.cs",
+              "RelativeDocumentMoniker": "ModelViewVM\\ViewModels\\CommandsViewModel.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\CommandsViewModel.cs",
+              "RelativeToolTip": "ModelViewVM\\ViewModels\\CommandsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:52:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\GenteViewModel.cs",
+              "RelativeDocumentMoniker": "ModelViewVM\\ViewModels\\GenteViewModel.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\GenteViewModel.cs",
+              "RelativeToolTip": "ModelViewVM\\ViewModels\\GenteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:48:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "ModelViewVM\\ViewModels\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\ViewModels\\PersonViewModel.cs",
+              "RelativeToolTip": "ModelViewVM\\ViewModels\\PersonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:48:30.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonView.xaml",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\PersonView.xaml",
+              "RelativeDocumentMoniker": "ModelViewVM\\Views\\PersonView.xaml",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\PersonView.xaml",
+              "RelativeToolTip": "ModelViewVM\\Views\\PersonView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-25T05:47:38.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gente.xaml",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\Gente.xaml",
+              "RelativeDocumentMoniker": "ModelViewVM\\Views\\Gente.xaml",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\Gente.xaml",
+              "RelativeToolTip": "ModelViewVM\\Views\\Gente.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-25T05:46:33.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ModelViewVM\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Models\\Person.cs",
+              "RelativeToolTip": "ModelViewVM\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:44:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\CommandsView.xaml",
+              "RelativeDocumentMoniker": "ModelViewVM\\Views\\CommandsView.xaml",
+              "ToolTip": "C:\\Users\\Shiny\\source\\repos\\MVVM\\ModelViewVM\\Views\\CommandsView.xaml",
+              "RelativeToolTip": "ModelViewVM\\Views\\CommandsView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-25T05:43:32.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

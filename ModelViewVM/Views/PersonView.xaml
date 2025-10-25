@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<VerticalStackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+
+    <Label Text="{Binding Person.Name}"
+           FontSize="50"/>
+    <Slider Maximum="100" Minimum="0"
+            Value="{Binding Person.Age}"/>
+    <Switch IsToggled="{Binding Person.Married}"/>
+    <DatePicker Date="{Binding Person.Birthday}"/>
+    <Entry Text="{Binding Person.Weight}"/>
+    <TimePicker Time="{Binding Person.LunchTime}"/>
+
+</VerticalStackLayout>
